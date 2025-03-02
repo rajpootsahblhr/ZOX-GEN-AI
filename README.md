@@ -1,2 +1,2 @@
 # ZOX-GEN-AI
-This is a website of OZX GEN AI. This is a website of  AI Image Generation.
+This is a website of ZOX GEN AI. This is a website of  AI Image Generation.
